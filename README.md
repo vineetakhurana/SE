@@ -13,7 +13,7 @@ I learnt that I code for a longer period of time in continuation and should take
 The following are snapshots of activity as recorded by Codealike, Rabbit and RescueTime:
 
 Weekly activity as per Rescue Time:
-![weekly](weekly.png)
+![weekly](weeklynew.png)
 
 Day social networking was more prominent than other days:
 ![fb](fb.png)
