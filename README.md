@@ -19,6 +19,7 @@ Day social networking was more prominent than other days:
 ![fb](fb.png)
 
 Codealike report on activity using Eclipse:
+
 ![codealike](codealike.png)
 
 Command history recorded by Rabbit:
