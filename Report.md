@@ -27,11 +27,11 @@ I learnt that I code for a longer period of time in continuation and should take
 
 **Command history recorded by Rabbit:**
 
-![rabbit1](rabbit commands.png)
+![rabbit1](rabbitcommands.png)
 
 **Coding activity sessions as recorded by Rabbit:**
 
-![rabbit2](sessions rabbit.png)
+![rabbit2](sessionsrabbit.png)
 
 
 
