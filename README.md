@@ -16,6 +16,8 @@ I learnt that I code for a longer period of time in continuation and should take
 
 ![weekly](weeklynew.png)
 
+![details](details.png)
+
 **Day social networking was more prominent than other days:**
 
 ![fb](fb.png)
