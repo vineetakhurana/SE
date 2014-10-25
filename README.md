@@ -10,25 +10,25 @@ The applications most commonly used were Eclipse, Word, Paint, Picassa, and Calc
 
 I learnt that I code for a longer period of time in continuation and should take breaks more often. The idle time between coding periods is more. So I should take frequent breaks during sections of a single coding sitting to avoid longer inter-coding break periods.
 
-The following are snapshots of activity as recorded by Codealike, Rabbit and RescueTime:
+**The following are snapshots of activity as recorded by Codealike, Rabbit and RescueTime:**
 
-Weekly activity as per Rescue Time:
+**Weekly activity as per Rescue Time:**
 
 ![weekly](weeklynew.png)
 
-Day social networking was more prominent than other days:
+**Day social networking was more prominent than other days:**
 
 ![fb](fb.png)
 
-Codealike report on activity using Eclipse:
+**Codealike report on activity using Eclipse:**
 
 ![codealike](codealike.png)
 
-Command history recorded by Rabbit:
+**Command history recorded by Rabbit:**
 
 ![rabbit1](rabbit commands.png)
 
-Coding activity sessions as recorded by Rabbit:
+**Coding activity sessions as recorded by Rabbit:**
 
 ![rabbit2](sessions rabbit.png)
 
