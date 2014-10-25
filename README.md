@@ -13,9 +13,11 @@ I learnt that I code for a longer period of time in continuation and should take
 The following are snapshots of activity as recorded by Codealike, Rabbit and RescueTime:
 
 Weekly activity as per Rescue Time:
+
 ![weekly](weeklynew.png)
 
 Day social networking was more prominent than other days:
+
 ![fb](fb.png)
 
 Codealike report on activity using Eclipse:
@@ -23,9 +25,11 @@ Codealike report on activity using Eclipse:
 ![codealike](codealike.png)
 
 Command history recorded by Rabbit:
+
 ![rabbit1](rabbit commands.png)
 
 Coding activity sessions as recorded by Rabbit:
+
 ![rabbit2](sessions rabbit.png)
 
 
