@@ -15,7 +15,6 @@ I learnt that I code for a longer period of time in continuation and should take
 **Weekly activity as per Rescue Time:**
 
 ![weekly](weeklynew.png)
-
 ![details](details.png)
 
 **Day social networking was more prominent than other days:**
