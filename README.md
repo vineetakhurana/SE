@@ -25,7 +25,7 @@ Command history recorded by Rabbit:
 ![rabbit1](rabbit commands.png)
 
 Coding activity sessions as recorded by Rabbit:
-![rabbit2](rabbit sessions.png)
+![rabbit2](sessions rabbit.png)
 
 
 
